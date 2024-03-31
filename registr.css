@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+*{}
+.register{
+	height: 500px;
+	width: 300px;
+	border: 1px black;
+	
+}
